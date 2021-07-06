@@ -1,0 +1,11 @@
+apt update -y
+apt upgrade -y
+pkg install python
+pip install colorama
+pip install stdiomask
+pip install amino.py
+pip install pyfiglet
+git clone 
+!Для запуска/For starting!
+cd AminoFxllowFxck
+python AminoFxllowFxck.py
